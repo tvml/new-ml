@@ -173,6 +173,36 @@
 
           
           
+        
+
+              
+
+          
+          
+        
+
+              
+
+          
+          
+        
+
+              
+
+          
+          
+        
+
+              
+
+          
+          
+        
+
+              
+
+          
+          
             
             
               <li class="divider"></li>
@@ -224,6 +254,96 @@
 
             
             
+              <li><a href="http://localhost:4000/info/">Informazioni</a></li>
+              <li class="divider"></li>
+
+            
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+              <li><a href="http://localhost:4000/programma/">programma</a></li>
+              <li class="divider"></li>
+
+            
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+              <li><a href="http://localhost:4000/lucidi/">lucidi</a></li>
+              <li class="divider"></li>
+
+            
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+              <li><a href="http://localhost:4000/codici/">codici</a></li>
+              <li class="divider"></li>
+
+            
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+              <li><a href="http://localhost:4000/dataset/">dataset</a></li>
+              <li class="divider"></li>
+
+            
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+              <li><a href="http://localhost:4000/comunicazioni/">Comunicazioni</a></li>
+              <li class="divider"></li>
+
+            
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
 
               <li class="has-dropdown">
                 <a href="#">Dropdown Menu</a>
@@ -244,32 +364,6 @@
                       
 
                       <li><a href="http://localhost:4000#">Dropdown Menu 3</a></li>
-                    
-                  </ul>
-                  
-              </li>
-              <li class="divider"></li>
-            
-          
-        
-
-              
-
-          
-          
-
-            
-            
-
-              <li class="has-dropdown">
-                <a href="http://localhost:4000/blog/">Blog</a>
-
-                  <ul class="dropdown">
-                    
-
-                      
-
-                      <li><a href="http://localhost:4000/blog/archive/">Blog Archive</a></li>
                     
                   </ul>
                   

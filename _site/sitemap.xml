@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<!-- Pages: 18 links with priority=0.3, changefreq=monthly -->
+<!-- Pages: 25 links with priority=0.3, changefreq=monthly -->
 
 	
 	<url>
 	<loc>http://localhost:4000/404.html</loc>
 	
-		<lastmod>2019-02-23T19:02:13+01:00</lastmod>
+		<lastmod>2019-02-23T22:49:23+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -22,7 +22,7 @@
 	<url>
 	<loc>http://localhost:4000/blog/archive/</loc>
 	
-		<lastmod>2019-02-23T19:02:13+01:00</lastmod>
+		<lastmod>2019-02-23T22:49:23+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -39,7 +39,7 @@
 	<url>
 	<loc>http://localhost:4000/atom.xml</loc>
 	
-		<lastmod>2019-02-23T19:02:13+01:00</lastmod>
+		<lastmod>2019-02-23T22:49:23+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -54,9 +54,54 @@
 
 	
 	<url>
+	<loc>http://localhost:4000/codici/</loc>
+	
+		<lastmod>2019-02-23T22:49:23+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/comunicazioni/</loc>
+	
+		<lastmod>2019-02-23T22:49:23+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
 	<loc>http://localhost:4000/contact/</loc>
 	
-		<lastmod>2019-02-23T19:02:13+01:00</lastmod>
+		<lastmod>2019-02-23T22:49:23+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/dataset/</loc>
+	
+		<lastmod>2019-02-23T22:49:23+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -71,7 +116,7 @@
 	<url>
 	<loc>http://localhost:4000/feed.xml</loc>
 	
-		<lastmod>2019-02-23T19:02:13+01:00</lastmod>
+		<lastmod>2019-02-23T22:49:23+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -86,7 +131,7 @@
 	<url>
 	<loc>http://localhost:4000/humans.txt</loc>
 	
-		<lastmod>2019-02-23T19:02:13+01:00</lastmod>
+		<lastmod>2019-02-23T22:49:23+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -101,7 +146,7 @@
 	<url>
 	<loc>http://localhost:4000/blog/</loc>
 	
-		<lastmod>2019-02-23T19:02:13+01:00</lastmod>
+		<lastmod>2019-02-23T22:49:23+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -116,7 +161,7 @@
 	<url>
 	<loc>http://localhost:4000/</loc>
 	
-		<lastmod>2019-02-23T19:02:13+01:00</lastmod>
+		<lastmod>2019-02-23T22:49:23+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -131,7 +176,37 @@
 	<url>
 	<loc>http://localhost:4000/info/</loc>
 	
-		<lastmod>2019-02-23T19:02:13+01:00</lastmod>
+		<lastmod>2019-02-23T22:49:23+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/lucidi/</loc>
+	
+		<lastmod>2019-02-23T22:49:23+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/programma/</loc>
+	
+		<lastmod>2019-02-23T22:49:23+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -146,7 +221,7 @@
 	<url>
 	<loc>http://localhost:4000/redirect-page/</loc>
 	
-		<lastmod>2019-02-23T19:02:13+01:00</lastmod>
+		<lastmod>2019-02-23T22:49:23+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -161,7 +236,7 @@
 	<url>
 	<loc>http://localhost:4000/robots.txt</loc>
 	
-		<lastmod>2019-02-23T19:02:13+01:00</lastmod>
+		<lastmod>2019-02-23T22:49:23+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -180,7 +255,7 @@
 	<url>
 	<loc>http://localhost:4000/search/</loc>
 	
-		<lastmod>2019-02-23T19:02:13+01:00</lastmod>
+		<lastmod>2019-02-23T22:49:23+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -195,7 +270,7 @@
 	<url>
 	<loc>http://localhost:4000/sitemap.xml</loc>
 	
-		<lastmod>2019-02-23T19:02:13+01:00</lastmod>
+		<lastmod>2019-02-23T22:49:23+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -208,14 +283,104 @@
 
 	
 
+	
+	<url>
+	<loc>http://localhost:4000/blog/page2/</loc>
+	
+		<lastmod>2019-02-23T22:49:23+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
 
-<!-- Posts: 5 links with priority=0.5, changefreq=monthly -->
+	
+	<url>
+	<loc>http://localhost:4000/blog/page3/</loc>
+	
+		<lastmod>2019-02-23T22:49:23+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+
+<!-- Posts: 12 links with priority=0.5, changefreq=monthly -->
+
+	
+	<url>
+	<loc>http://localhost:4000/comunicazioni/python/</loc>
+	
+		<lastmod>2019-02-15T00:00:00+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/python/</loc>
+	
+		<lastmod>2019-02-15T00:00:00+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/comunicazioni/dummy/dummy-delete-me/</loc>
+	
+		<lastmod>2015-10-15T00:00:00+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
 
 	
 	<url>
 	<loc>http://localhost:4000/dummy/dummy-delete-me/</loc>
 	
 		<lastmod>2015-10-15T00:00:00+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/comunicazioni/dummy/dummy-delete-me-copy-4/</loc>
+	
+		<lastmod>2015-10-13T00:00:00+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -243,6 +408,21 @@
 
 	
 	<url>
+	<loc>http://localhost:4000/comunicazioni/dummy/dummy-delete-me-copy-5/</loc>
+	
+		<lastmod>2015-10-12T00:00:00+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
 	<loc>http://localhost:4000/dummy/dummy-delete-me-copy-5/</loc>
 	
 		<lastmod>2015-10-12T00:00:00+02:00</lastmod>
@@ -258,9 +438,39 @@
 
 	
 	<url>
+	<loc>http://localhost:4000/comunicazioni/dummy/dummy-delete-me-copy-3/</loc>
+	
+		<lastmod>2015-10-11T00:00:00+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
 	<loc>http://localhost:4000/dummy/dummy-delete-me-copy-3/</loc>
 	
 		<lastmod>2015-10-11T00:00:00+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/comunicazioni/dummy/dummy-delete-me-copy-2/</loc>
+	
+		<lastmod>2015-10-10T00:00:00+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>

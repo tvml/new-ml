@@ -4,6 +4,34 @@
 - title: Start
   url: "/"
   side: left
+  
+- title: Informazioni
+  url: "/info/"
+  side: left
+  
+- title: programma
+  url: "/programma/"
+  side: left
+  
+- title: lucidi
+  url: "/lucidi/"
+  side: left
+  
+- title: codici
+  url: "/codici/"
+  side: left
+
+- title: dataset
+  url: "/dataset/"
+  side: left
+  
+#- title: comunicazioni
+#  url: "/comunicazioni/"
+#  side: left
+  
+- title: Comunicazioni
+  url: "/comunicazioni/"
+  side: left
 
 - title: "Dropdown Menu"
   url: "#"
@@ -15,13 +43,6 @@
     url: "#"
   - title: "Dropdown Menu 3"
     url: "#"
-
-- title: Blog
-  url: "/blog/"
-  side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
 
 #
 #   Navigation to the right › side: right
