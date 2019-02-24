@@ -25,12 +25,12 @@
   url: "/dataset/"
   side: left
   
-#- title: comunicazioni
-#  url: "/comunicazioni/"
-#  side: left
-  
 - title: Comunicazioni
   url: "/comunicazioni/"
+  side: left
+  
+- title: Store
+  url: "/store/"
   side: left
 
 - title: "Dropdown Menu"
@@ -47,13 +47,13 @@
 #
 #   Navigation to the right › side: right
 #
-- title: "Info"
-  url: "/info/"
-  side: left
+#- title: "Info"
+#  url: "/info/"
+#  side: left
 
-- title: "Search"
-  url: "/search/"
-  side: right
+#- title: "Search"
+#  url: "/search/"
+#  side: right
 
 - title: "Contact"
   url: "/contact/"
