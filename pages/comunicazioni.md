@@ -12,7 +12,7 @@ header: no
 
 <posts>
         <table>
-            {% for post in site.categories.comunicazioni %}
+            {% for post in site.categories.comunicazioni reversed %}
             <tr>
                 <td><i class="icon-clock"></i> <time datetime="{{post.date}}">{{post.date|date:"%d-%m-%Y"}}</time></td>  
                 <td><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></td>

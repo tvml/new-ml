@@ -29,20 +29,32 @@
   url: "/comunicazioni/"
   side: left
   
+- title: Lezioni
+  url: "/lezioni/"
+  side: left
+  
+- title: Progetti
+  url: "/progetti/"
+  side: left
+  
 - title: Store
   url: "/store/"
   side: left
-
-- title: "Dropdown Menu"
-  url: "#"
+  
+- title: Bibliografia
+  url: "/biblio/"
   side: left
-  dropdown:
-  - title: "Dropdown Menu 1"
-    url: "#"
-  - title: "Dropdown Menu 2"
-    url: "#"
-  - title: "Dropdown Menu 3"
-    url: "#"
+
+#- title: "Dropdown Menu"
+#  url: "#"
+#  side: left
+#  dropdown:
+#  - title: "Dropdown Menu 1"
+#    url: "#"
+#  - title: "Dropdown Menu 2"
+#    url: "#"
+#  - title: "Dropdown Menu 3"
+#    url: "#"
 
 #
 #   Navigation to the right › side: right
@@ -55,6 +67,6 @@
 #  url: "/search/"
 #  side: right
 
-- title: "Contact"
-  url: "/contact/"
-  side: right
+#- title: "Contact"
+#  url: "/contact/"
+#  side: right
